@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV</title>
-    <updated>2020-05-24T14:15:58.684Z</updated>
+    <updated>2020-05-24T14:17:44.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -37,6 +37,25 @@
 以帮主为中心，渐渐的聚集了一批热爱FPS和打僵尸的同好。</p>
 <p>一个以BANG为缩写的组织渐渐的壮大了起来</p>
 <p>BangTv就是这个组织的直播机构</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://ckkevin.github.io/post/about/</id>
+        <link href="https://ckkevin.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到BANGTV，很高兴遇见你！🤗</p>
+</blockquote>
+<h1 id="关于本站">🏠 关于本站</h1>
+<p>😸bangtv日常资讯</p>
+<h1 id="博主是谁">👨‍💻 博主是谁</h1>
+<p>😸IssahTu</p>
+<h1 id="兴趣爱好">⛹ 兴趣爱好</h1>
+<p>😸一个什么都会的工具人</p>
+<h1 id="联系我呀">📬 联系我呀</h1>
+<p>👻https://twitter.com/Miao_meepo</p>
 ]]></content>
     </entry>
 </feed>
