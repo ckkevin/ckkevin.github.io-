@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV</title>
-    <updated>2020-05-24T14:01:37.638Z</updated>
+    <updated>2020-05-24T14:15:58.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -10,4 +10,33 @@
     <logo>https://ckkevin.github.io/images/avatar.png</logo>
     <icon>https://ckkevin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, BangTV</rights>
+    <entry>
+        <title type="html"><![CDATA[💔如何修复B站弹幕不显示的问题💔]]></title>
+        <id>https://ckkevin.github.io/post/ru-he-xiu-fu-b-zhan-dan-mu-bu-xian-shi-de-wen-ti/</id>
+        <link href="https://ckkevin.github.io/post/ru-he-xiu-fu-b-zhan-dan-mu-bu-xian-shi-de-wen-ti/">
+        </link>
+        <updated>2020-05-24T14:11:02.000Z</updated>
+        <content type="html"><![CDATA[<p>在2020年4月20日早上的时候，破站开始了弹幕协议升级<br>
+为了节省流量消耗<br>
+直播弹幕添加了deflate压缩<br>
+虽然一段时间内又修复了回来<br>
+但是在5月21日,全站已经强制了deflate压缩<br>
+解决办法就是<br>
+将deflate压缩的开关protover设置为2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                                  BangTv介绍]]></title>
+        <id>https://ckkevin.github.io/post/bangtv-jie-shao/</id>
+        <link href="https://ckkevin.github.io/post/bangtv-jie-shao/">
+        </link>
+        <updated>2020-05-24T14:07:22.000Z</updated>
+        <content type="html"><![CDATA[<p>万恶之源起源于帮主❗️<br>
+帮主简称帮 汉语拼音BANG 是一名退役很久的CS职业选手， 名不见经不传。<br>
+帮主热爱FPS游戏和打僵尸游戏。<br>
+以帮主为中心，渐渐的聚集了一批热爱FPS和打僵尸的同好。</p>
+<p>一个以BANG为缩写的组织渐渐的壮大了起来</p>
+<p>BangTv就是这个组织的直播机构</p>
+]]></content>
+    </entry>
 </feed>
