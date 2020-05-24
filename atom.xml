@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ckkevin.github.io</id>
+    <title>BangTV</title>
+    <updated>2020-05-24T14:00:11.994Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ckkevin.github.io"/>
+    <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
+    <subtitle>BangTv 资讯站</subtitle>
+    <logo>https://ckkevin.github.io/images/avatar.png</logo>
+    <icon>https://ckkevin.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, BangTV</rights>
+</feed>
