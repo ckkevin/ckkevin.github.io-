@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV</title>
-    <updated>2020-10-09T16:02:18.056Z</updated>
+    <updated>2020-10-09T16:04:34.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -10,6 +10,149 @@
     <logo>https://ckkevin.github.io/images/avatar.png</logo>
     <icon>https://ckkevin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, BangTV</rights>
+    <entry>
+        <title type="html"><![CDATA[PSO2 S能力中 日 官英 FAN英对照表]]></title>
+        <id>https://ckkevin.github.io/post/pso2-s-neng-li-zhong-ri-guan-ying-fan-ying-dui-zhao-biao/</id>
+        <link href="https://ckkevin.github.io/post/pso2-s-neng-li-zhong-ri-guan-ying-fan-ying-dui-zhao-biao/">
+        </link>
+        <updated>2020-10-09T16:02:50.000Z</updated>
+        <content type="html"><![CDATA[<p>Welcome to the S-Class-Special-Abilities-CHART wiki!<br>
+S能力日 官英 fan英对照表<br>
+S4修复因子请自查各语言wiki 不再对照</p>
+<table>
+<thead>
+<tr>
+<th>日服</th>
+<th>獲得方法</th>
+<th>FAN英</th>
+<th>官英</th>
+<th>效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S1:妙技の巧</td>
+<td>紅龍XH</td>
+<td>S1:Wise Skill</td>
+<td>S1:Superior prowess</td>
+<td>Increase Critical Hit Rate by 15%.</td>
+</tr>
+<tr>
+<td>S1:剛撃の志</td>
+<td>破損銃槍因子</td>
+<td>S1:Offensive Intent</td>
+<td>S1:Aggressive Will</td>
+<td>Increase damage by 2%.</td>
+</tr>
+<tr>
+<td>S1:輝勢の恵</td>
+<td>紅龍XH</td>
+<td>S1:Radiating Grace</td>
+<td>S1:Luchent Grace</td>
+<td>Increase Natural PP Recovery by 20%.</td>
+</tr>
+<tr>
+<td>S1:光子縮減</td>
+<td>破損步槍大炮雙槍因子</td>
+<td>S1:Photon Reduction</td>
+<td>S1:Photon Reduction</td>
+<td>Reduce PP consumption by 7%.</td>
+</tr>
+<tr>
+<td>S2:妙技の巧</td>
+<td>破損雙頭雙小拳套因子</td>
+<td>S2:Wise Skill</td>
+<td>S2:Superior prowess</td>
+<td>Increase Critical Hit Rate by 15%.</td>
+</tr>
+<tr>
+<td>S2:強闘の志</td>
+<td>MARS系武器因子</td>
+<td>S2:Powering Intent</td>
+<td>S2: Goliathslayer's Resolve</td>
+<td>Increase damage dealt to bosses by 3%.</td>
+</tr>
+<tr>
+<td>S2:裂砕の志</td>
+<td>騎士系列武器因子</td>
+<td>S2:Rupturing Intent</td>
+<td>S2: Partbreaker's Resolve</td>
+<td>Increase damage against breakable parts by 3%.</td>
+</tr>
+<tr>
+<td>S2:光子縮減</td>
+<td>紅龍XH</td>
+<td>S2:Photon Reduction</td>
+<td>S2: Photon Reduction</td>
+<td>Reduce PP consumption by 10%.</td>
+</tr>
+<tr>
+<td>S2:妙撃の志</td>
+<td>紅龍XH?狂想老爺子武器因子</td>
+<td>S2:Skilled Intent</td>
+<td>S2: Precision Will</td>
+<td>Increase Critical Hit Damage by 3%.</td>
+</tr>
+<tr>
+<td>S2:時流活与</td>
+<td>紅龍XH</td>
+<td>S2:Flowing Exhilaration</td>
+<td>S2: Timeflow Vitality</td>
+<td>Recover 60% of your maximum HP every 40s.</td>
+</tr>
+<tr>
+<td>S3:守護の備</td>
+<td>紅龍XH?龍星UQ黑壞龍武器因子</td>
+<td>S3:Guardian Armor</td>
+<td>S3: Guardian Gear</td>
+<td>Reduces damage taken by 7%.</td>
+</tr>
+<tr>
+<td>S2:輝剰の撃</td>
+<td>破損太刀飛翔劍弓鞋因子</td>
+<td>S2:Radiant Strike</td>
+<td>S2: Lucent Strike</td>
+<td>Increase Active PP Recovery by 20%.</td>
+</tr>
+<tr>
+<td>S3:輝剰の撃</td>
+<td>紅龍XH</td>
+<td>S3:Radiant Strike</td>
+<td>S3: Lucent Strike</td>
+<td>Increase Active PP Recovery by 20%.</td>
+</tr>
+<tr>
+<td>S3:猛威の奮激</td>
+<td>紅龍XH,14星幾何學特別訓練EP5?</td>
+<td>S3:Furious Inspiration</td>
+<td>S3: Persistent Fury</td>
+<td>Increase Power (+4%) and Critical Hit Rate (+5%). Enhance PP efficiency(10% Natural PP recovery, 15% Active PP recovery, -5% PP Consumption).Effect resets when damage is taken. (180s Cooldown)</td>
+</tr>
+<tr>
+<td>S3:妙撃の志</td>
+<td>紅龍XH</td>
+<td>S3:Skilled Intent</td>
+<td>S3: Precision Will</td>
+<td>Increase Critical Hit Damage by 4%.</td>
+</tr>
+<tr>
+<td>S3:時流活与</td>
+<td>破損大劍自在長槍因子</td>
+<td>S3:Flowing Exhilaration</td>
+<td>S3: Timeflow Vitality</td>
+<td>Recover 40% of your maximum HP every 40s.</td>
+</tr>
+<tr>
+<td>S3:輝勢の恵</td>
+<td>破損長杖短杖導具因子</td>
+<td>S3:Radiating Grace</td>
+<td>S3:Luchent Grace</td>
+<td>Increase Natural PP Recovery by 17%.</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💔如何修复B站弹幕不显示的问题💔]]></title>
         <id>https://ckkevin.github.io/post/ru-he-xiu-fu-b-zhan-dan-mu-bu-xian-shi-de-wen-ti/</id>
