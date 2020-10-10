@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV</title>
-    <updated>2020-10-09T17:00:48.439Z</updated>
+    <updated>2020-10-10T06:02:38.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://ckkevin.github.io/images/avatar.png</logo>
     <icon>https://ckkevin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, BangTV</rights>
+    <entry>
+        <title type="html"><![CDATA[EP5 修復追加思路(一切前提以升級千年之後只改S能力為基礎)]]></title>
+        <id>https://ckkevin.github.io/post/ep5-xiu-fu-zhui-jia-si-lu-yi-qie-qian-ti-yi-sheng-ji-qian-nian-zhi-hou-zhi-gai-s-neng-li-wei-ji-chu/</id>
+        <link href="https://ckkevin.github.io/post/ep5-xiu-fu-zhui-jia-si-lu-yi-qie-qian-ti-yi-sheng-ji-qian-nian-zhi-hou-zhi-gai-s-neng-li-wei-ji-chu/">
+        </link>
+        <updated>2020-10-10T05:39:58.000Z</updated>
+        <content type="html"><![CDATA[<p>基於美服混沌版本 S能力的不確定性 以及4S 200的高成本<br>
+不能達到滿爆的職業<br>
+暫定以錬成の志(狂宴)   強闘の志(已有)  活実の志(幻森)  共計倍率10%製作<br>
+在沒有錬成の志之前以剛撃の志(已有)取代  共計倍率8%<br>
+剩餘4孔1針1相位 剩餘2孔按照成本取捨<br>
+能達到滿爆的職業(FI)<br>
+以S1妙技 S2妙擊2 S3妙擊2 (前提混沌版本能出) 共計9%暴擊傷害倍率製作</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PSO2 S能力中 日 官英 FAN英对照表]]></title>
         <id>https://ckkevin.github.io/post/pso2-s-neng-li-zhong-ri-guan-ying-fan-ying-dui-zhao-biao/</id>
