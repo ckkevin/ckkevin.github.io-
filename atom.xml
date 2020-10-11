@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV</title>
-    <updated>2020-10-11T07:40:13.658Z</updated>
+    <updated>2020-10-11T08:02:49.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -10,6 +10,52 @@
     <logo>https://ckkevin.github.io/images/avatar.png</logo>
     <icon>https://ckkevin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, BangTV</rights>
+    <entry>
+        <title type="html"><![CDATA[光鸡准备ver1.0]]></title>
+        <id>https://ckkevin.github.io/post/guang-ji-zhun-bei-ver10/</id>
+        <link href="https://ckkevin.github.io/post/guang-ji-zhun-bei-ver10/">
+        </link>
+        <updated>2020-10-11T07:49:51.000Z</updated>
+        <content type="html"><![CDATA[<p>光鸡前置星震所需配方武器名称对照</p>
+<p>佛爷系列</p>
+<table>
+<thead>
+<tr>
+<th>日文</th>
+<th>英文</th>
+<th>FAN英</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ディトネションレイジ</td>
+<td>Detonation Rage</td>
+<td>Detonation Rage</td>
+</tr>
+<tr>
+<td>ディトネションフェル</td>
+<td>Detonation Fel</td>
+<td>Detonation Fell</td>
+</tr>
+<tr>
+<td>ディトネションヒュージ</td>
+<td>Detonation Fuge</td>
+<td>Detonation Huge</td>
+</tr>
+<tr>
+<td>ディトネションスロータ</td>
+<td>Detonation Slaughter</td>
+<td>Detonation Slaughter</td>
+</tr>
+<tr>
+<td>ディトネションゴア</td>
+<td>Detonation Gore</td>
+<td>Detonation Gore</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EP5 修復追加思路(一切前提以升級千年之後只改S能力為基礎)]]></title>
         <id>https://ckkevin.github.io/post/ep5-xiu-fu-zhui-jia-si-lu-yi-qie-qian-ti-yi-sheng-ji-qian-nian-zhi-hou-zhi-gai-s-neng-li-wei-ji-chu/</id>
