@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV</title>
-    <updated>2020-10-11T08:31:30.776Z</updated>
+    <updated>2020-10-15T08:44:51.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -123,7 +123,7 @@ S4修复因子请自查各语言wiki 不再对照</p>
 <td>S2:妙技の巧</td>
 <td>破損雙頭雙小拳套因子</td>
 <td>S2:Wise Skill</td>
-<td>S2:Superior prowess</td>
+<td>S2: Skillful Adept</td>
 <td>Increase Critical Hit Rate by 12%.</td>
 </tr>
 <tr>
