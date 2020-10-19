@@ -2068,26 +2068,20 @@ pre > span.copy-code:hover {
 .hljs-strong {
   font-weight: bold;
 }
-.bg-color .bg-color {
-      background: transparent !important;
-    }body {
-      background-color: #f1f3f5;
+body {
+      background-color: #ced4da;
     }
     .nav-toggle .line {
-      background-color: #f1f3f5 !important;
+      background-color: #ced4da !important;
     }.header {
-        width: 960px;
+        width: 1080px;
         margin: 0 auto;
       }
 
       .main-continer {
-        width: 960px;
+        width: 1080px;
         margin: 0 auto;
       }
-    
-    .post-body {
-      font-size: 15px !important
-    }
     body {
       color: #555;
     }
@@ -2098,7 +2092,7 @@ pre > span.copy-code:hover {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #eeeeeee5;
+      background: #eeeeeefe;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2142,21 +2136,12 @@ pre > span.copy-code:hover {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f9f9f9e5;
+      background: #f9f9f9fe;
     }
 
     .nav-item:hover {
-      background: #f9f9f9e5;
+      background: #f9f9f9fe;
       color: rgba(0, 0, 0, 0.98);
-    }.site-author-image {
-      border-radius: 50%;
-    }
-    .site-author-image:hover {
-      transform: rotate(666turn);
-      transition-delay: 1s;
-      transition-property: all;
-      transition-duration: 59s;
-      transition-timing-function: cubic-bezier(.34,0,.84,1);
     }.markdownIt-TOC a {
       color: #eee;
       border-bottom-color: #eee;
@@ -2182,7 +2167,7 @@ pre > span.copy-code:hover {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #f1f3f5e5;
+      background-color: #dee2e6fe;
     }
       .site-meta {
         background: #000 !important;
@@ -2191,13 +2176,13 @@ pre > span.copy-code:hover {
         background: #000 !important;
       }
     .brand {
-      background: #0b7285e5;
+      background: #000000fe;
     }
     .main-title, .brand {
       color: #FFF !important;
     }
     .mist .site-title i {
-      background: #FFFFFFe5;
+      background: #FFFFFFfe;
     }body {
       cursor: default;
     }a {
