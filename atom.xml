@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV</title>
-    <updated>2020-10-19T07:21:16.687Z</updated>
+    <updated>2020-10-21T09:44:18.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -51,6 +51,122 @@
 <td>ディトネションゴア</td>
 <td>Detonation Gore</td>
 <td>Detonation Gore</td>
+</tr>
+</tbody>
+</table>
+<p>双子系列</p>
+<table>
+<thead>
+<tr>
+<th>日文</th>
+<th>英文</th>
+<th>FAN英</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>シャライラカプリス</td>
+<td>Xerraire Caprice</td>
+<td></td>
+</tr>
+<tr>
+<td>シャライラシュルプ</td>
+<td>Xerraire Schulp</td>
+<td></td>
+</tr>
+<tr>
+<td>シャライラパシュテ</td>
+<td>Xerraire Paxte</td>
+<td></td>
+</tr>
+<tr>
+<td>シャライラルピエ</td>
+<td>Xerraire Lupier</td>
+<td></td>
+</tr>
+<tr>
+<td>ディトネションゴア</td>
+<td>Xerraire Petila</td>
+<td></td>
+</tr>
+<tr>
+<td>シャライラカーシャ</td>
+<td>Xerraire Kersch</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>若人系列</p>
+<table>
+<thead>
+<tr>
+<th>日文</th>
+<th>英文</th>
+<th>FAN英</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>アリュールアングズ</td>
+<td>Allure Angz</td>
+<td></td>
+</tr>
+<tr>
+<td>アリュールラウブ</td>
+<td>Allure Lauv</td>
+<td></td>
+</tr>
+<tr>
+<td>アリュールキロス</td>
+<td>Allure Cyros</td>
+<td></td>
+</tr>
+<tr>
+<td>アリュールグレンス</td>
+<td>Allure Grenz</td>
+<td></td>
+</tr>
+<tr>
+<td>アリュールヴィネーラ</td>
+<td>Allure Venera</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>败者系列</p>
+<table>
+<thead>
+<tr>
+<th>日文</th>
+<th>英文</th>
+<th>FAN英</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>クラーデムサリーサ</td>
+<td>Claudium Sarissa</td>
+<td></td>
+</tr>
+<tr>
+<td>クラーデムエルピーダ</td>
+<td>Claudium Elpida</td>
+<td></td>
+</tr>
+<tr>
+<td>クラーデムグラッジオ</td>
+<td>Claudium Graccio</td>
+<td></td>
+</tr>
+<tr>
+<td>クラーデムケイジ</td>
+<td>Claudium Cage</td>
+<td></td>
+</tr>
+<tr>
+<td>クラーデムカージス</td>
+<td>Claudium Cardis</td>
+<td></td>
 </tr>
 </tbody>
 </table>
