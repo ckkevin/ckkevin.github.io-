@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV杂货铺</title>
-    <updated>2020-10-21T14:14:22.213Z</updated>
+    <updated>2020-10-21T14:25:02.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -186,7 +186,10 @@
 剩餘4孔1針1相位 剩餘2孔按照成本取捨<br>
 能達到滿爆的職業(FI)<br>
 以S1妙技 S2妙擊2 S3妙擊2 (前提混沌版本能出) 共計9%暴擊傷害倍率製作</p>
-]]></content>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
+<div class="aplayer" data-id="707484510" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="true"></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PSO2 S能力中 日 官英 FAN英对照表]]></title>
