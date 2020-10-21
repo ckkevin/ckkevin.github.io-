@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV杂货铺</title>
-    <updated>2020-10-21T14:08:18.641Z</updated>
+    <updated>2020-10-21T14:12:10.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
@@ -16,11 +16,8 @@
         <link href="https://ckkevin.github.io/guang-ji-zhun-bei-ver10/">
         </link>
         <updated>2020-10-11T07:49:51.000Z</updated>
-        <content type="html"><![CDATA[<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
+        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1396762441&auto=1&height=66"></iframe>
 <p>光鸡前置星震所需配方武器名称对照</p>
-<div class="aplayer" data-id="3099548864" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="true"></div>
 <p>佛爷系列</p>
 <table>
 <thead>
