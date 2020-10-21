@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
-    <title>BangTV</title>
-    <updated>2020-10-21T10:08:32.913Z</updated>
+    <title>BangTV杂货铺</title>
+    <updated>2020-10-21T10:48:31.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
-    <subtitle>BangTv 资讯站</subtitle>
+    <subtitle>一个堆放各种资料的杂货铺</subtitle>
     <logo>https://ckkevin.github.io/images/avatar.png</logo>
     <icon>https://ckkevin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, BangTV</rights>
+    <rights>All rights reserved 2020, BangTV杂货铺</rights>
     <entry>
         <title type="html"><![CDATA[光鸡准备ver1.0]]></title>
         <id>https://ckkevin.github.io/guang-ji-zhun-bei-ver10/</id>
