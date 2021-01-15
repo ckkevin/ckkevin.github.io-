@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ckkevin.github.io</id>
     <title>BangTV杂货铺</title>
-    <updated>2020-12-15T06:50:06.951Z</updated>
+    <updated>2021-01-15T10:46:11.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ckkevin.github.io"/>
     <link rel="self" href="https://ckkevin.github.io/atom.xml"/>
     <subtitle>一个堆放各种资料的杂货铺</subtitle>
     <logo>https://ckkevin.github.io/images/avatar.png</logo>
     <icon>https://ckkevin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, BangTV杂货铺</rights>
+    <rights>All rights reserved 2021, BangTV杂货铺</rights>
     <entry>
         <title type="html"><![CDATA[坚实前置武器质实英文对照]]></title>
         <id>https://ckkevin.github.io/XSdil6nmd/</id>
@@ -139,6 +139,17 @@
 <p>武器1为14星超界探索掉落<br>
 武器2 Orb系列 魔笛 舰破終の慟哭(?) 掉落  Genon系列 魔笛 超界 巨躯UH掉落  另外两个系列为舰队低保兑换 /闪机种LV91 掉落<br>
 武器3 大多为紧急UH掉落 以及超界探索BOSS 稀有牌子兑换</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开坑：TELU从入门到入土]]></title>
+        <id>https://ckkevin.github.io/hBXOUd1mI/</id>
+        <link href="https://ckkevin.github.io/hBXOUd1mI/">
+        </link>
+        <updated>2020-11-28T15:16:00.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+<p>TE天赋<br>
+<img src="https://ckkevin.github.io/post-images/1610707545728.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -403,21 +414,6 @@ aether fuse 大和紧急低保<br>
 不再对照<br>
 详细资料访问<br>
 https://pso2na.arks-visiphone.com/wiki/S-Grade_Augments</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💔如何修复B站弹幕不显示的问题💔]]></title>
-        <id>https://ckkevin.github.io/ru-he-xiu-fu-b-zhan-dan-mu-bu-xian-shi-de-wen-ti/</id>
-        <link href="https://ckkevin.github.io/ru-he-xiu-fu-b-zhan-dan-mu-bu-xian-shi-de-wen-ti/">
-        </link>
-        <updated>2020-05-24T14:11:02.000Z</updated>
-        <content type="html"><![CDATA[<p>在2020年4月20日早上的时候，破站开始了弹幕协议升级<br>
-为了节省流量消耗<br>
-直播弹幕添加了deflate压缩<br>
-虽然一段时间内又修复了回来<br>
-但是在5月21日,全站已经强制了deflate压缩<br>
-解决办法就是<br>
-将deflate压缩的开关protover设置为2</p>
 ]]></content>
     </entry>
 </feed>
